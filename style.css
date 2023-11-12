@@ -90,6 +90,8 @@ audio {
       font-size: 16px; /* Adjust the font size for smaller screens */
   }
   .red-text {
+    font-family: Pacifico;
+    color: red;
     font-size: 100px;
   }
   
@@ -97,9 +99,9 @@ audio {
 
 /* Media query for screens with a minimum width of 1200px */
 /* @media only screen and (min-width: 1200px) { */
-/*   h2 {
-      text-align: center; /* Adjust the margin for larger screens */
-/*   } */ */
+  h2 {
+      margin-left: 10px; /* Adjust the margin for larger screens */
+  }
 
 /* } */
 
